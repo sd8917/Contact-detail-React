@@ -23,7 +23,7 @@ function App() {
 
       <Switch>
 
-        <Route exact path="/"  component={ContactCard} />
+        <Route exact path="/"  component={ContactCard } />
         <Route  path="/contact" component={ContactUs} />
         <Route  path="/about" component={About} />
         <Route  path="/career" component={Career} />

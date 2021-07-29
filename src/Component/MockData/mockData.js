@@ -1,5 +1,5 @@
 
-export default  userDetail = [
+export const userDetail = [
     {
         id:1,
         name:"Sudhanshu kumar",
@@ -42,6 +42,28 @@ export default  userDetail = [
         imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AriosjEVuc2ZhFBtETJ9SRHKIa1UD5-ucA&usqp=CAU",
         phone:"8238923922",
         company:"TCS",
+    },
+    {
+        id:6,
+        name:"Shivam Chaudaary",
+        imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AriosjEVuc2ZhFBtETJ9SRHKIa1UD5-ucA&usqp=CAU",
+        phone:"8238923922",
+        company:"TCS",
+    },
+    {
+        id:7,
+        name:"Rahul tripathi",
+        imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AriosjEVuc2ZhFBtETJ9SRHKIa1UD5-ucA&usqp=CAU",
+        phone:"3234343434",
+        company:"Accenture",
+    },
+
+    {
+        id:8,
+        name:"Sanaya Soni",
+        imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6AriosjEVuc2ZhFBtETJ9SRHKIa1UD5-ucA&usqp=CAU",
+        phone:"2839239223",
+        company:"Facebook",
     },
 
 ]

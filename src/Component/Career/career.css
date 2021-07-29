@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+#form-wrapper{
+    margin: 40px;
+    border: 1px solid #F3C13A;
+    border-radius: 40px;
+}
+
+#form-wrapper > h1
+{
+    font-family: 'Palette Mosaic', cursive;
+  font-size: 30px;
+
+}
+
+#form-wrapper > p{
+    font-weight: 200;
+}
